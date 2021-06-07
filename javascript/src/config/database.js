@@ -10,7 +10,7 @@ import TeacherClassSubject from '../model/TeacherClassSubject.js';
 const LOG = new Logger('database.js');
 const {
   DB_HOST = 'localhost',
-  DB_PORT = '3306',
+  DB_PORT = '33306',
   DB_SCHEMA = 'school_administration_system',
   DB_USER = 'root',
   DB_PW = 'password',
