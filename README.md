@@ -4,6 +4,9 @@ The version that is used to run this project is : v14.16.1
 ### Steps to Run this project locally:
 All the commands listed should be ran in ./javascript directory.
 
+## Step 0: Setup DB
+Run the script in DB.sql to create the neccessary tables.
+
 ## Step 1:
 npm install
 
